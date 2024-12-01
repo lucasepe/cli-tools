@@ -35,8 +35,5 @@ Every bit of support makes a meaningful difference and allows me to focus on bui
 
 Thank you for your generosity and for being part of this journey!
 
-<form style="margin: 2em auto;width:50%;" action="https://www.paypal.com/donate" method="post" target="_top">
-    <input type="hidden" name="hosted_button_id" value="FV575PVWGXZBY">
-    <input type="image" src="https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button">
-    <img alt="" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1">
-</form>
+
+[![Donate with PayPal](images/donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FV575PVWGXZBY&source=url)
