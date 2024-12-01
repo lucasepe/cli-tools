@@ -1,0 +1,51 @@
+Copyright (C) 2024 Luca Sepe
+
+This software is provided free of charge to the end user (hereafter
+referred to as "User") for personal and/or commercial use, under the following 
+terms:
+
+1. USAGE RIGHTS:
+
+  - The User is allowed to download and use the software free of charge.
+  - The software may only be used for lawful purposes and in compliance with
+    applicable laws.
+
+2. RESTRICTIONS:
+
+  - Modification, decompilation, or reverse engineering of the software is
+    strictly prohibited.
+  - Unauthorized distribution of the software, in its original or modified
+    form is not allowed.
+  - The software may not be included in commercial packages without the
+    explicit consent of the copyright holder.
+
+3. DONATIONS:
+
+  - Voluntary donations are welcome but not required to use the software.
+    Donations do not grant additional support or exclusive rights.
+
+4. ADDITIONAL SUPPORT and CUSTOMIZATIONS:
+  
+  - Additional support services, such as troubleshooting, installation
+    assistance or customizations, are not included in this free license.
+  - These services may be requested separately and are subject to
+    availability and additional terms.
+    For more information, please contact luca.sepe@gmail.com
+
+5. LIABILITY DISCLAIMER:
+  
+  - The software is provided "as is", without any warranties of any kind, express 
+    or implied. The User assumes all responsibility for the use of the software.
+
+6. COPYRIGHT:
+
+  - The software is protected by copyright and remains the exclusive property 
+    of Luca Sepe.
+
+7. ACCEPTANCE:
+  
+  - By downloading or using the software, the User agrees to the terms of 
+    this license.
+
+For any questions, clarifications, or inquiries about additional support service
+s, please contact luca.sepe@gmail.com
